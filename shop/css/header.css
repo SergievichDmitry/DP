@@ -9,7 +9,7 @@ header{
     justify-content: space-around;
     display: flex;
     height: 40px;
-    background: #D9CCC1;
+    background:red;
 }
 
 .search{
